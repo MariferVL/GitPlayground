@@ -41,7 +41,7 @@ Agrega tu descripción
 
 Aquí tienes un video que espero te inspire aún más en tu viaje como desarrolladora web:
 
-[![¡Mira!](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[¡Mira!](https://www.youtube.com/watch?v=6KI4vWQe6Z0)
 
 Recuerda que cada paso que das y cada desafío que superas te hacen crecer y te acercan a tus metas. Sigue aprendiendo, sigue desafiándote a ti misma y nunca olvides cuán valiosa eres en este mundo de la tecnología.
 
