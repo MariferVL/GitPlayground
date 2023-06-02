@@ -3,7 +3,7 @@
 <img width="333"src="https://github.com/MariferVL/PracticaYess/assets/99364311/45e5b8ce-21de-4eb0-b3f9-13f198b424a8">
 </p>
 
-¡Hola, Yessenia! Este README está especialmente dedicado a ti, como una fuente de inspiración y motivación en tu camino como desarrolladora web. Eres una persona increíblemente talentosa y apasionada, y quiero recordarte lo lejos que has llegado y lo emocionante que es el futuro que te espera.
+¡Hola, Yess! Este README está especialmente dedicado a ti, como una fuente de inspiración y motivación en tu camino como desarrolladora web. Eres una persona increíblemente talentosa y apasionada, y quiero recordarte lo lejos que has llegado y lo emocionante que es el futuro que te espera.
 
 ## Sobre ti
 
