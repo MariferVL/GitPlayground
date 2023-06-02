@@ -13,9 +13,12 @@ Eres una persona valiente y decidida que ha tomado la iniciativa de convertirse 
 
 Repaso de tus Logros:
 
-### [Proyecto 1:NombreProyecto](https://github.com/yesseniamilla/repo)
+### [Proyecto 1: Card validation] (https://github.com/yessllar2023/DEV004-card-validation)
 
-Agrega tu descripción
+Este fue un gran logro que me lleno el 💗
+
+(https://yessllar2023.github.io/DEV004-card-validation/src/)
+
 
 
 ### [Proyecto 2: NombreProyecto](https://github.com/yesseniamilla/repo)
