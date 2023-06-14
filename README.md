@@ -17,7 +17,7 @@ Repaso de tus Logros:
 
 Este fue un gran logro que me lleno el 💗
 
-(https://yessllar2023.github.io/DEV004-card-validation/src/)
+ https://yessllar2023.github.io/DEV004-card-validation/src/
 
 
 
